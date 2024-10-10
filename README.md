@@ -5,3 +5,6 @@ Aufgabe Bäume:
 
 Aufgabe GameOfLife:
 [GameOfLife](https://lisa0510.github.io/Beautiful-Math/GameOfLife/GameofLife.html)
+
+Aufgabe Spirale:
+[Spirale](https://lisa0510.github.io/Beautiful-Math/Spirale/)
